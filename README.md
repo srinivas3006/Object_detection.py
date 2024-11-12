@@ -1,2 +1,4 @@
-# motion_detection.py
-simple code for motion detection using python
+# Object_detection.py
+simple code for object detection using python
+Install Required Libraries:
+pip install opencv-python imutils

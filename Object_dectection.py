@@ -2,7 +2,7 @@ import cv2
 import time
 import imutils
 
-# Initialize video capture from the default camera (0)
+# Initialize video capture from the default camera (0) for external camfeed (1)
 cam = cv2.VideoCapture(0)
 
 # Wait for the camera to warm up
